@@ -1,0 +1,223 @@
+body {
+    background-color: rgb(92, 35, 35);
+}
+#contenidor {
+    display: grid;
+    grid-template-columns: 70px 140px 140px 70px 70px 70px 70px;
+    grid-template-rows: 50px 50px 50px 150px 50px 50px 50px;
+    height: 520px;
+    width: 525px;
+    margin: auto;
+    margin-top: 30px;
+   
+   
+}
+#caja1 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    background: lightgray;
+    float: left;
+    border-right: solid 5px;
+    border-bottom: solid 5px;
+}
+#caja2 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 3;
+    grid-row-end: 6;
+    background: lightgray;
+    float: left;
+    border-right: solid 5px;
+    border-bottom: solid 5px;
+
+}
+#caja3 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 6;
+    grid-row-end: 7;
+    background: lightgray;
+    float: left;
+    border-right: solid 5px;
+    border-bottom: solid 5px;
+
+}
+#caja4 {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 7;
+    grid-row-end: 8;
+    background: lightgray;
+    float: left;
+    border-right: solid 5px;
+    border-top: solid 1px;
+
+}
+#caja5 {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 8;
+    background: rgb(238, 198, 66);
+    float: left;
+    border-right: solid 5px;
+}
+#caja6 {
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 4;
+    background: rgb(13, 38, 104);
+    float: left;
+    border-right: solid 5px;
+    border-bottom: solid 5px;
+}
+#caja7 {
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 4;
+    grid-row-end: 8;
+    background: rgb(238, 198, 66);
+    float: left;
+    border-right: solid 5px;
+    
+}
+#caja8 {
+    grid-column-start: 4;
+    grid-column-end: 5;
+    grid-row-start: 1;
+    grid-row-end: 5;
+    background: red;
+    float: left;
+    
+}
+#caja9 {
+    grid-column-start: 5;
+    grid-column-end: 6;
+    grid-row-start: 1;
+    grid-row-end: 5;
+    background: red;
+    float: left;
+    border-right: solid 5px;
+
+}
+#caja10 {
+    grid-column-start: 4;
+    grid-column-end: 5;
+    grid-row-start: 5;
+    grid-row-end: 6;
+    background: red;
+    float: left;
+    border-right: solid 5px;
+    border-top: solid 5px;
+    border-bottom: solid 5px;
+}
+#caja11 {
+    grid-column-start: 4;
+    grid-column-end: 5;
+    grid-row-start: 6;
+    grid-row-end: 8;
+    background: rgb(13, 38, 104);
+    float: left;
+    border-right: solid 5px;
+    
+    
+}
+#caja12 {
+    grid-column-start: 5;
+    grid-column-end: 6;
+    grid-row-start: 5;
+    grid-row-end: 6;
+    background: red;
+    float: left;
+    border-right: solid 5px;
+    border-top: solid 5px;
+    border-bottom: solid 5px;
+}
+#caja13 {
+    grid-column-start: 5;
+    grid-column-end: 6;
+    grid-row-start: 6;
+    grid-row-end: 8;
+    background: red;
+    float: left;
+    border-right: solid 5px;
+
+}
+#caja14 {
+    grid-column-start: 6;
+    grid-column-end: 7;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    background: rgb(238, 198, 66);
+    float: left;
+    border-right: solid 5px;
+    border-bottom: solid 5px;
+
+}
+#caja15 {
+    grid-column-start: 6;
+    grid-column-end: 7;
+    grid-row-start: 3;
+    grid-row-end: 4;
+    background: lightgray;
+    float: left;
+    border-right: solid 5px;
+    border-bottom: solid 5px;
+}
+#caja16 {
+    grid-column-start: 6;
+    grid-column-end: 8;
+    grid-row-start: 4;
+    grid-row-end: 5;
+    background: red;
+    float: left;
+    
+}
+#caja17 {
+    grid-column-start: 6;
+    grid-column-end: 7;
+    grid-row-start: 5;
+    grid-row-end: 8;
+    background: rgb(238, 198, 66);
+    float: left;
+    border-right: solid 5px;
+}
+#caja18 {
+    grid-column-start: 7;
+    grid-column-end: 8;
+    grid-row-start: 5;
+    grid-row-end: 8;
+    background: rgb(238, 198, 66);
+    float: left;
+    
+}
+#caja19 {
+    grid-column-start: 7;
+    grid-column-end: 8;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    background: rgb(238, 198, 66);
+    float: left;
+    border-bottom: solid 5px;
+}
+#caja20 {
+    grid-column-start: 7;
+    grid-column-end: 8;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    background: red;
+    float: left;
+    border-bottom: solid 5px;
+}
+#caja21 {
+    grid-column-start: 7;
+    grid-column-end: 8;
+    grid-row-start: 3;
+    grid-row-end: 4;
+    background: lightgray;
+    float: left;
+    border-bottom: solid 5px;
+}

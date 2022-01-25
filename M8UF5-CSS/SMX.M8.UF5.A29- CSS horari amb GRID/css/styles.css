@@ -1,0 +1,383 @@
+#contenidor {
+    border: 2px solid ;
+    display: inline-grid;
+    width: 1345px;
+    height: 955px;
+    padding: 12px;
+}
+#contenidor2 {
+    display: inline-grid;
+    grid-template-columns: 134px 246px 196px 226px 246px 226px ;
+    grid-template-rows: 46px 107.5px 107.5px 120px 46px 130px 180px 120px ;
+    grid-gap: 14px;
+}
+#caja1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px darkblue solid;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+#caja2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px darkblue solid;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+#caja3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px darkblue solid;;
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+#caja4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px darkblue solid;
+    grid-column-start: 4;
+    grid-column-end: 5;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+#caja5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px darkblue solid;
+    grid-column-start: 5;
+    grid-column-end: 6;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+#caja6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px darkblue solid;
+    grid-column-start: 6;
+    grid-column-end: 7;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+#caja7 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px darkblue solid;
+    grid-column-start: 7;
+    grid-column-end: 8;
+    grid-row-start: 1;
+    grid-row-end: 2;
+
+}
+#caja8 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 5;
+    border:2px darkblue solid;
+
+}
+#caja9 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px darkblue solid;
+    grid-column-start: 4;
+    grid-column-end: 5;
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+#caja10 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px darkblue solid;
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 2;
+    grid-row-end: 4;
+}
+#caja11 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px darkblue solid;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 2;
+    grid-row-end: 3;
+}
+#caja12 {
+    border:2px darkblue solid;
+    grid-column-start: 4;
+    grid-column-end: 5;
+    grid-row-start: 2;
+    grid-row-end: 3;
+}
+#caja13{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px darkblue solid;
+    grid-column-start: 5;
+    grid-column-end: 6;
+    grid-row-start: 2;
+    grid-row-end: 5;
+}
+#caja14 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px darkblue solid;
+    grid-column-start: 6;
+    grid-column-end: 7;
+    grid-row-start: 2;
+    grid-row-end: 4;
+}
+#caja15 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px darkblue solid;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 3;
+    grid-row-end: 4;
+}
+#caja16 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px darkblue solid;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 4;
+    grid-row-end: 5;
+}
+#caja17 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px darkblue solid;
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 4;
+    grid-row-end: 5;
+}
+#caja18 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px darkblue solid;
+    grid-column-start: 4;
+    grid-column-end: 5;
+    grid-row-start: 3;
+    grid-row-end: 5;
+}
+#caja19 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px darkblue solid;
+    grid-column-start: 6;
+    grid-column-end: 7;
+    grid-row-start: 4;
+    grid-row-end: 5;
+}
+#caja20 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px darkblue solid;
+    grid-column-start: 1;
+    grid-column-end: 7;
+    grid-row-start: 5;
+    grid-row-end: 6;
+}
+#caja21 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px darkblue solid;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 6;
+    grid-row-end: 7;
+}
+#caja22 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px darkblue solid;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 7;
+    grid-row-end: 8;
+}
+#caja23 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px darkblue solid;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 8;
+    grid-row-end: 9;
+}
+#caja24 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px darkblue solid;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 6;
+    grid-row-end: 9;
+}
+#caja25 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px darkblue solid;
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 6;
+    grid-row-end: 7;
+}
+#caja26 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px darkblue solid;
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 7;
+    grid-row-end: 8;
+}
+#caja27 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px darkblue solid;
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 8;
+    grid-row-end: 9;
+}
+#caja28 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px darkblue solid;
+    grid-column-start: 4;
+    grid-column-end: 5;
+    grid-row-start: 6;
+    grid-row-end: 7;
+}
+#caja29 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px darkblue solid;
+    grid-column-start: 4;
+    grid-column-end: 5;
+    grid-row-start: 7;
+    grid-row-end: 8;
+}
+#caja30 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px darkblue solid;
+    grid-column-start: 4;
+    grid-column-end: 5;
+    grid-row-start: 8;
+    grid-row-end: 9;
+}
+#caja31 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px darkblue solid;
+    grid-column-start: 5;
+    grid-column-end: 6;
+    grid-row-start: 6;
+    grid-row-end: 8;
+}
+#caja32 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px darkblue solid;
+    grid-column-start: 5;
+    grid-column-end: 6;
+    grid-row-start: 8;
+    grid-row-end: 9;
+}
+#caja33 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px darkblue solid;
+    grid-column-start: 6;
+    grid-column-end: 7;
+    grid-row-start: 6;
+    grid-row-end: 7;
+}
+#caja34 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px darkblue solid;
+    grid-column-start: 6;
+    grid-column-end: 7;
+    grid-row-start: 7;
+    grid-row-end: 8;
+}
+#caja35 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:2px darkblue solid;
+    grid-column-start: 6;
+    grid-column-end: 7;
+    grid-row-start: 8;
+    grid-row-end: 9;
+}

@@ -1,0 +1,41 @@
+.p1 {
+    background-color: yellow;
+}
+.p2 {
+    background-color: sandybrown;
+}
+.p3 {
+    background-color: orange
+}
+.p4 {
+    background-color: orangered;
+}
+.p5 {
+    background-color: red;
+}
+.p6 {
+    background-color: rgb(253, 67, 67);
+}
+.p7 {
+    background-color: rgb(250, 87, 87);
+}
+.p8 {
+    background-color: rgb(250, 129, 129);
+}
+.p9 {
+    background-color: rgb(243, 172, 172);
+}
+.p10 {
+    background-color: rgb(243, 217, 217);
+}
+body {
+    background-image: url("../img/IMAGEN.png");
+    background-size: 2000px ;
+    
+}
+.p1:hover, .p2:hover, .p3:hover, .p4:hover, .p5:hover, .p6:hover, .p7:hover, .p8:hover, .p9:hover, .p10:hover {
+    background-color:cadetblue ;
+}
+span {text-decoration: underline;}
+#span {text-decoration: overline;}
+strong {font-weight: bold;}

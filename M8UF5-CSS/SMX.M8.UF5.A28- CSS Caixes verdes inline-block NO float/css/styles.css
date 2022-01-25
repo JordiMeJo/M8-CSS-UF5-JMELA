@@ -1,0 +1,172 @@
+#contenidor {
+    display: grid;
+    width: 1009px;
+    height: 500px;
+    grid-template-columns: 200px 200px 200px;
+    grid-template-rows: 100px 100px 100px;
+    justify-content: center;
+    grid-gap: 40px;
+}
+
+
+
+#caja1 {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border-bottom: solid green 3px;
+    border-top: solid green 3px;
+    border-right: solid green 3px;
+    border-left: solid green 3px;
+    text-align: center;
+}   
+
+#caja2 {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border-bottom: solid green 3px;
+    border-top: solid green 3px;
+    border-right: solid green 3px;
+    border-left: solid green 3px;
+    text-align: center;
+}   
+
+#caja3 {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border-bottom: solid green 3px;
+    border-top: solid green 3px;
+    border-right: solid green 3px;
+    border-left: solid green 3px;
+    text-align: center;
+}   
+
+#caja4 {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border-bottom: solid green 3px;
+    border-top: solid green 3px;
+    border-right: solid green 3px;
+    border-left: solid green 3px;
+    text-align: center;
+}   
+
+#caja5 {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border-bottom: solid green 3px;
+    border-top: solid green 3px;
+    border-right: solid green 3px;
+    border-left: solid green 3px;
+    text-align: center;
+}   
+
+#caja6 {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border-bottom: solid green 3px;
+    border-top: solid green 3px;
+    border-right: solid green 3px;
+    border-left: solid green 3px;
+    text-align: center;
+}   
+
+#caja7 {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border-bottom: solid green 3px;
+    border-top: solid green 3px;
+    border-right: solid green 3px;
+    border-left: solid green 3px;
+    text-align: center;
+}   
+
+#caja8 {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border-bottom: solid green 3px;
+    border-top: solid green 3px;
+    border-right: solid green 3px;
+    border-left: solid green 3px;
+    text-align: center;
+}   
+
+#caja9 {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    border-bottom: solid green 3px;
+    border-top: solid green 3px;
+    border-right: solid green 3px;
+    border-left: solid green 3px;
+    text-align: center;
+}   
+
+
+#contenidor2{
+    display: grid;
+    grid-template-columns: 1150px;
+    grid-template-rows: 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px 50px;
+}
+
+#caja-1{
+    border: 5px solid limegreen;
+}
+#caja-2{
+    border: 2.5px dashed limegreen;
+}
+#caja-3{
+    border: 2.5px dashed limegreen;
+}
+#caja-4{
+    border: 2.5px dashed limegreen;
+}
+#caja-5{
+    border: 2.5px dashed limegreen;
+}
+#caja-6{
+    border: 2.5px dashed mediumblue;
+}
+#caja-7{
+    border: 2.5px dashed mediumblue;
+}
+#caja-8{
+    border: 2.5px dashed mediumblue;
+}
+#caja-9{
+    border: 2.5px dashed mediumblue;
+}
+#caja-10{
+    border: 2.5px dashed mediumblue;
+}
+#caja-11{
+    border: 2.5px dashed rgb(153, 5, 5);
+}
+#caja-12{
+    border: 2.5px dashed rgb(153, 5, 5);
+}
+#caja-13{
+    border: 2.5px dashed rgb(153, 5, 5);
+}
+#caja-14{
+    border: 2.5px dashed rgb(153, 5, 5);
+}
+#caja-15{
+    border: 5px solid rgb(153, 5, 5);
+}

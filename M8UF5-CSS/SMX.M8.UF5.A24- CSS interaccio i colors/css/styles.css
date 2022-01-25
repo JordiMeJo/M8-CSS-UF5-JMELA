@@ -1,0 +1,27 @@
+dt {
+   background-color:blue;
+   margin-bottom: 7px;
+   color: white;
+   text-align: center;
+   border: 2px solid;
+}
+
+ol {
+   width: 150px;
+}
+dt:hover {
+   border-color: blueviolet;
+}
+#finde  {
+   background-color:green;
+   margin-bottom: 7px;
+   color: white;
+   text-align: center;
+   border: 2px solid;
+}
+#finde:hover {
+   background-color: gray;
+   color: black;
+   border-color: red;
+   
+}
